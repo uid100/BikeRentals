@@ -6,13 +6,13 @@ Bike Rentals
 
 Larry & David went on vacation in Kaua'i from Indiana. The weather is close to 78 - 82 degrees all year around and they've decided they're staying!
 
- ![waterfall]()
+ ![waterfall](https://raw.githubusercontent.com/uid100/BikeRentals/main/images/waterfall.JPG)
 
 They were stunned at the cost of rental cars in a post-Covid world. The average speed limit around the island is about 30 mph, but even around the beach towns, there are hills. The electric bike market has blown up and they have a college friend in Singapore that can source top-end electric bikes with large tires suitable for the roads and hills in two adult sizes which can be shipped and delivered for close to $2k each, and they can rent them for $75/day. If they stretch their budget, they can start with twenty (20) of these (10 each, large and medium for smaller adults), including overhead startup expenses.
 
 They found a small shop in a popular tourist area with plenty outdoor space to open a shop with a storage shed to keep their inventory locked up at night, including the rack of t-shirts they hope to sell. Together, they have a little money from graduation gifts and from selling their cars on the mainland.
 
-![electric_bikes]()
+![electric_bikes](https://raw.githubusercontent.com/uid100/BikeRentals/main/images/bikes.JPG)
 
 This could work!
 
