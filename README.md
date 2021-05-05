@@ -40,5 +40,24 @@ Here's a start at their
 - What data needs to be collected/maintained/stored/viewed?
 - What views are needed? Who will be using each?
 - What are the individual components to be built?
+- Eng: Are the bikes level-priced? tier-pricing? by size? are some days at a premium?
+
+
+## Solution Design
+
+- Reservations system 
+   - view what's available
+   - view / change / cancel reservations
+- Marketing
+   - periodic advertising
+   - follow up with past customers
+   - coordinate(?) with island events/attractions
+- Centralized database
+- Admin portal
+   - manage inventory / costs / maintenance
+- Point of Sale system
+   - Customer accounting
+   - invoicing
+
 
   
